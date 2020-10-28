@@ -17,8 +17,8 @@ In this game, the board will be displayed into 9 grids, and in each grids there 
 ## Screenshots
 The following images show the player competes with the computer
 
-![display1](/Users/leon/Desktop/ReadMe/display1.png)
-![display2](/Users/leon/Desktop/ReadMe/display2.png)
+![display1](display1.png)
+![display2](display2.png)
 
 ## Technologies
 Project is created with:
