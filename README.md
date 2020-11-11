@@ -21,9 +21,9 @@ Four modes of the game:
 3. Tree-based AI VS Tree-based AI
 4. Tree-based AI VS Baseline AI
 
+The following image shows the sample of the game rule
 ![](gamerulesample.png)
-       Sample of the Game Rule
-
+      
 ## Screenshots
 The following images show mode 3 and mode 4 test results 
 
