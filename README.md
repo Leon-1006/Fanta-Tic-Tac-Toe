@@ -26,10 +26,11 @@ The following images show mode 3 and mode 4 test results
 
 * Size: 2 obstacles
 * Mode: 3
-
+![](mode3.png)
 
 * Size: 3 obstalces
 * Mode: 4
+![](mode4.png)
 
 ## Technologies
 Project is created with:
