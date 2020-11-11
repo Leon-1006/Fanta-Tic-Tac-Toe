@@ -21,6 +21,8 @@ Four modes of the game:
 3. Tree-based AI VS Tree-based AI
 4. Tree-based AI VS Baseline AI
 
+![](gamerulesample.png)
+
 ## Screenshots
 The following images show mode 3 and mode 4 test results 
 
