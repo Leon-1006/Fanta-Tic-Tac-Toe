@@ -46,15 +46,13 @@ Algorithm
    * Mac: Follow <https://docs.anaconda.com/anaconda/install/mac-os/>
    * Linux: Follow <https://docs.anaconda.com/anaconda/install/linux/>
 2. Make sure you have installed python in your computer, here is the link: <https://www.python.org/>, then install it locally using:
-
-```
-conda install numpy
-```
-or
-
-```
-pip install numpy
-```
+   ```
+   conda install numpy
+   ```
+   or
+   ```
+   pip install numpy
+   ```
 3. Download and run this .py file on your anaconda
    [fantatictactoe.py](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/main/fantatictactoe.py "Fanta Tic-Tac-Toe")
 
