@@ -75,7 +75,7 @@ Algorithm
 ## Features
 Main concept of this game is followed by minimax algorithm. Minimax is a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player, assumig that your opponent also plays optimally.
 
-![minimax](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/minmax_func.png)
+![](minimax.png)
 
 ## Status
 Project is in progress, and there are still some problem but we will fix them in the later semaster.(descriptions in () are possible solutions)
