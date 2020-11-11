@@ -1,6 +1,9 @@
 # Fanta Tic-Tac-Toe 
-An advanced, 9x3x3 version of traditional Tic-Tac-Toe 
+An advanced, 3x3x3x3 version of traditional Tic-Tac-Toe.
 
+[fantatictactoe.py](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/main/fantatictactoe.py "Fanta Tic-Tac-Toe")
+
+Download and run this .py file on your anaconda. Make sure following the [Setup](#setup).
 ## Table of contents
 * [General info](#genneral_info)
 * [Screenshots](#screenshots)
@@ -13,13 +16,13 @@ An advanced, 9x3x3 version of traditional Tic-Tac-Toe
 * [License](#license)
 
 ## General Info
-In this game, the board will be displayed into 9 grids, and in each grids there are small 9 squares. The first player can place either 'X' or 'O' into any square, and the other player will choose the other pattern and place it into the marked grid or another. If one grid has a horizontal, vertical, or diagonal row then this grid has been completed. The player has to mark other grids. Once who has dominated 3 grids is the winner.
+In this game, the board will be displayed into 9 grids, and in each grids there are small 9 squares. The AI player can place ***'O'*** into any square, and the other human player will choose the other ***'X'*** and place it into the marked grid or another. And there are some obstacles named ***"P"*** which will be placed at the beginning(nobody can place at ***"P"***) .If one grid has a horizontal, vertical, or diagonal row then this grid has been completed. The player has to mark other grids. Once who has dominated 3 grids is the winner.
 
 ## Screenshots
 The following images show the player competes with the computer
 
-![display1](display1.png)
-![display2](display2.png)
+![display1]
+![display2]
 
 ## Technologies
 Project is created with:
@@ -55,14 +58,14 @@ pip install numpy
 ## Features
 Main concept of this game is followed by minimax algorithm. Minimax is a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player, assumig that your opponent also plays optimally.
 
-![minimax](/Users/leon/Desktop/ReadMe/minimax.png)
+![minimax](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/minmax_func.png)
 
 ## Status
-Project is in progress, and there are still some problems but we will fix them in the future
-(descriptions in () are possible solutions)
+Project is in progress, and there are still some problem but we will fix them in the later semaster.(descriptions in () are possible solutions)
 
-* AI is not smart and efficient enough (do more research and hold sticks with human players)
-* rules are not as smart as we assumed before (make connections from sub-grid to whole board)
+* AI is not smart and efficient enough( do more research and hold sticks with human players)
+* Rules are not as smart as we assumed before in the proposal( make completely connections from sub-grid to whole board)
+
 
 ## Sources
 This project is inspired by 
@@ -70,6 +73,7 @@ This project is inspired by
 * 柯伊伯带的咸鱼 "让井字棋变得不一样——战略井字棋！" <https://www.bilibili.com/read/cv187749/> 
 *  The Coding Train "Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm" <https://www.youtube.com/watch?v=trKjYdBASyQ&ab_channel=TheCodingTrain>
 *  <https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/>
+* <https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/>
 
 ## Contact
 If you have any questions, feel free to contact us with the following emails:
@@ -100,4 +104,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
- 
