@@ -1,9 +1,6 @@
 # Fanta Tic-Tac-Toe 
 An advanced, 3x3x3x3 version of traditional Tic-Tac-Toe.
 
-[fantatictactoe.py](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/main/fantatictactoe.py "Fanta Tic-Tac-Toe")
-
-Download and run this .py file on your anaconda. Make sure following the [Setup](#setup).
 ## Table of contents
 * [General info](#genneral_info)
 * [Screenshots](#screenshots)
@@ -44,7 +41,11 @@ Algorithm
 * Alpha-Beta Pruning
 
 ## Setup
-To run this project, make sure you have installed python in your computer, here is the link: <https://www.python.org/>, then install it locally using:
+1. Install anaconda on your computer
+   Windows: Follow <https://docs.anaconda.com/anaconda/install/windows/>
+   Mac: Follow <https://docs.anaconda.com/anaconda/install/mac-os/>
+   Linux: Follow <https://docs.anaconda.com/anaconda/install/linux/>
+2. Make sure you have installed python in your computer, here is the link: <https://www.python.org/>, then install it locally using:
 
 ```
 conda install numpy
@@ -54,6 +55,8 @@ or
 ```
 pip install numpy
 ```
+3. Download and run this .py file on your anaconda
+   [fantatictactoe.py](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/main/fantatictactoe.py "Fanta Tic-Tac-Toe")
 
 ## Features
 Main concept of this game is followed by minimax algorithm. Minimax is a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player, assumig that your opponent also plays optimally.
@@ -70,10 +73,10 @@ Project is in progress, and there are still some problem but we will fix them in
 ## Sources
 This project is inspired by 
 
-* 柯伊伯带的咸鱼 "让井字棋变得不一样——战略井字棋！" <https://www.bilibili.com/read/cv187749/> 
-*  The Coding Train "Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm" <https://www.youtube.com/watch?v=trKjYdBASyQ&ab_channel=TheCodingTrain>
-*  <https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/>
-* <https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/>
+* The Coding Train. (2019, December 11). Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm. Retrieved October 28, 2020, from           https://www.youtube.com/watch?v=trKjYdBASyQ&ab_channel=TheCodingTrain
+*  Minimax Algorithm in Game Theory: Set 1 (Introduction). (2019, May 28). Retrieved October 28, 2020, from https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
+*  Minimax Algorithm in Game Theory: Set 4 (Alpha-Beta Pruning). (2019, December 05). Retrieved October 28, 2020, from https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
+* 柯伊伯带的咸鱼. (2018, January 31). 让井字棋变得不一样--战略井字棋！. Retrieved October 28, 2020, from https://www.bilibili.com/read/cv187749/
 
 ## Contact
 If you have any questions, feel free to contact us with the following emails:
