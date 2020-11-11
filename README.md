@@ -21,8 +21,8 @@ In this game, the board will be displayed into 9 grids, and in each grids there 
 ## Screenshots
 The following images show the player competes with the computer
 
-![display1]
-![display2]
+![display1](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/display1.png)
+![display2](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/display2.png)
 
 ## Technologies
 Project is created with:
