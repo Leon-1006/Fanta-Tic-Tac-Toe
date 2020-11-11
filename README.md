@@ -13,7 +13,7 @@ An advanced, 3x3x3x3 version of traditional Tic-Tac-Toe.
 * [License](#license)
 
 ## General Info
-In this game, the board will be displayed into 9 grids, and in each grids there are small 9 squares. The AI player can place ***'O'*** into any square, and the other human player will choose the other ***'X'*** and place it into the marked grid or another. And there are some obstacles named ***"P"*** which will be placed at the beginning(nobody can place at ***"P"***) .If one grid has a horizontal, vertical, or diagonal row then this grid has been completed. The player has to mark other grids. Once who has dominated 3 grids is the winner.
+In this game, the board will be displayed into 9 grids, and in each grids there are small 9 squares. The AI player can place ***'O'*** into any square, and the other human player will choose the other ***'X'*** and place it into the marked grid or another. And there are some obstacles named ***"P"*** which will be placed at the beginning(nobody can place at ***"P"***) .If one grid has a horizontal, vertical, or diagonal row then this grid has been completed. The player has to mark other grids. Once who has dominated 3 grids is the winner. Also, we implemented two AI in this game. One is baseline AI, which chooses actions uniformly at random. The other one is tree-based AI, which is implemented mininmax algorithm with alpha-beta pruning. 
 
 Four modes of the game:
 1. Player VS Tree-based AI
@@ -22,10 +22,14 @@ Four modes of the game:
 4. Tree-based AI VS Baseline AI
 
 ## Screenshots
-The following images show the player competes with the computer
+The following images show mode 3 and mode 4 test results with size of 2 obstacles
 
-![display1](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/display1.png)
-![display2](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/display2.png)
+Size: 2 obstacles
+Mode: 3
+
+
+Size: 2 obstalces
+Mode: 4
 
 ## Technologies
 Project is created with:
