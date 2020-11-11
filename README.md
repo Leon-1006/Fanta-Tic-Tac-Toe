@@ -22,14 +22,14 @@ Four modes of the game:
 4. Tree-based AI VS Baseline AI
 
 ## Screenshots
-The following images show mode 3 and mode 4 test results with size of 2 obstacles
+The following images show mode 3 and mode 4 test results 
 
-Size: 2 obstacles
-Mode: 3
+* Size: 2 obstacles
+* Mode: 3
 
 
-Size: 2 obstalces
-Mode: 4
+* Size: 3 obstalces
+* Mode: 4
 
 ## Technologies
 Project is created with:
