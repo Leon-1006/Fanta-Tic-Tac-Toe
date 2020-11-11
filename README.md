@@ -15,6 +15,12 @@ An advanced, 3x3x3x3 version of traditional Tic-Tac-Toe.
 ## General Info
 In this game, the board will be displayed into 9 grids, and in each grids there are small 9 squares. The AI player can place ***'O'*** into any square, and the other human player will choose the other ***'X'*** and place it into the marked grid or another. And there are some obstacles named ***"P"*** which will be placed at the beginning(nobody can place at ***"P"***) .If one grid has a horizontal, vertical, or diagonal row then this grid has been completed. The player has to mark other grids. Once who has dominated 3 grids is the winner.
 
+Four modes of the game:
+1. Player VS Tree-based AI
+2. Player VS Baseline AI
+3. Tree-based AI VS Tree-based AI
+4. Tree-based AI VS Baseline AI
+
 ## Screenshots
 The following images show the player competes with the computer
 
@@ -42,10 +48,13 @@ Algorithm
 
 ## Setup
 1. Install anaconda on your computer
+   
    * Windows: Follow <https://docs.anaconda.com/anaconda/install/windows/>
    * Mac: Follow <https://docs.anaconda.com/anaconda/install/mac-os/>
    * Linux: Follow <https://docs.anaconda.com/anaconda/install/linux/>
+
 2. Make sure you have installed python in your computer, here is the link: <https://www.python.org/>, then install it locally using:
+   
    ```
    conda install numpy
    ```
@@ -53,7 +62,9 @@ Algorithm
    ```
    pip install numpy
    ```
+   
 3. Download and run this .py file on your anaconda
+   
    [fantatictactoe.py](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/main/fantatictactoe.py "Fanta Tic-Tac-Toe")
 
 ## Features
