@@ -42,15 +42,19 @@ In this experiment we change the number of obstacles to modify the size of the b
 * Mode: 4
 
 * Size: 0 obstacles
+![](0obstacles.png)
 
 * Size: 1 obstacles
+![](1obstacles.png)
 
 * Size: 2 obstacles
+![](2obstacles.png)
 
 * Size: 3 obstacles
+![](3obstacles.png)
 
 * Size: 4 obstacles
-
+![](4obstacles.png)
 
 ## Technologies
 Project is created with:
