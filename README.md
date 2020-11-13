@@ -23,6 +23,7 @@ Four modes of the game:
 4. Tree-based AI VS Baseline AI
 
 The following image shows the sample of the game rule
+
 ![](gamerulesample.png)
       
 ## Screenshots
