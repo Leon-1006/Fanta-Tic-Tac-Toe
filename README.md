@@ -4,6 +4,7 @@ An advanced, 3x3x3x3 version of traditional Tic-Tac-Toe.
 ## Table of contents
 * [General info](#genneral_info)
 * [Screenshots](#screenshots)
+* [Experimental Results](#experimental_results)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -34,6 +35,22 @@ The following images show mode 3 and mode 4 test results
 * Size: 3 obstalces
 * Mode: 4
 ![](mode4.png)
+
+## Experimental Results
+In this experiment we change the number of obstacles to modify the size of the board. In each size, we simulate 100 games to the following results. 
+
+* Mode: 4
+
+* Size: 0 obstacles
+
+* Size: 1 obstacles
+
+* Size: 2 obstacles
+
+* Size: 3 obstacles
+
+* Size: 4 obstacles
+
 
 ## Technologies
 Project is created with:
