@@ -105,8 +105,8 @@ Main concept of this game is followed by minimax algorithm. Minimax is a kind of
 ## Status
 Project is in progress, and there are still some problem but we will fix them in the later semaster.(descriptions in () are possible solutions)
 
-* AI is not smart and efficient enough( do more research and hold sticks with human players)
-* Rules are not as smart as we assumed before in the proposal( make completely connections from sub-grid to whole board)
+* AI is better than the last one but not performed well as we expected
+* Trying to strengthen the algrithm to increase the winning rate of the tree-based AI
 
 
 ## Sources
